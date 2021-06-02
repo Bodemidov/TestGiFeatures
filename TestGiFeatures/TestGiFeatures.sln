@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGiFeatures", "TestGiFeatures\TestGiFeatures.csproj", "{DDB7212F-CB51-4AFA-BB69-5A78072A80DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDB7212F-CB51-4AFA-BB69-5A78072A80DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDB7212F-CB51-4AFA-BB69-5A78072A80DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDB7212F-CB51-4AFA-BB69-5A78072A80DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDB7212F-CB51-4AFA-BB69-5A78072A80DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5739E01-7A8E-4774-8C1B-CB992638A030}
+	EndGlobalSection
+EndGlobal
